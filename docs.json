@@ -41,7 +41,7 @@
     }
   ],
   "navbar": [
-    { "name": "Support", "url": "mailto:support@metria.so" }
+    { "name": "Support", "url": "mailto:support@metria.so" },
     { "name": "GitHub", "url": "https://github.com/my-org/my-repo" },
   ]
 }
