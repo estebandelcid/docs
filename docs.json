@@ -45,7 +45,7 @@
         {
           "group": "Test",
           "pages": ["probando-index/index"]
-        },
+        }
       ]
     }
   ],
