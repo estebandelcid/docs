@@ -36,7 +36,16 @@
             "api-reference/endpoint/create",
             "api-reference/endpoint/delete"
           ]
-        }
+        }, 
+      ]
+    },
+    {
+      "tab": "Testing",
+      "groups": [
+        {
+          "group": "Test",
+          "pages": ["probando-index/index"]
+        },
       ]
     }
   ],
