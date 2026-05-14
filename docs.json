@@ -7,7 +7,7 @@
       "groups": [
         {
           "group": "Get Started",
-          "pages": ["introduction", "quickstart", "development"]
+          "pages": ["introduction", "01-quickstart", "development"]
         },
         {
           "group": "Essentials",
