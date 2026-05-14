@@ -47,7 +47,7 @@
           "pages": ["probando-index/index"]
         }
       ]
-    }
+    },
   ],
   "navbar": [
     { "name": "Support", "url": "mailto:support@metria.so" },
