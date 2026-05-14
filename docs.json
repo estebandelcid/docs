@@ -1,47 +1,61 @@
 {
-"name": "Mint Starter Kit",
-"theme": { "preset": "default" },
-"navigation": [
-{
-"tab": "Guides",
-"groups": [
-{
-"group": "Get Started",
-          "pages": ["introduction", "quickstart", "development"],
-          "pages": ["introduction", "01-quickstart", "development"]
-},
-{
-"group": "Essentials",
-"pages": [
-"essentials/markdown",
-"essentials/code",
-"essentials/images",
-"essentials/settings",
-"essentials/navigation",
-"essentials/reusable-snippets"
-]
+    "name": "Mint Starter Kit",
+    "theme": {
+        "preset": "default"
+    },
+    "navigation": [
+        {
+            "tab": "Guides",
+            "groups": [
+                {
+                    "group": "Get Started",
+                    "pages": [
+                        "introduction",
+                        "01-quickstart",
+                        "development"
+                    ]
+                },
+                {
+                    "group": "Essentials",
+                    "pages": [
+                        "essentials/markdown",
+                        "essentials/code",
+                        "essentials/images",
+                        "essentials/settings",
+                        "essentials/navigation",
+                        "essentials/reusable-snippets"
+                    ]
+                }
+            ]
+        },
+        {
+            "tab": "API Reference",
+            "groups": [
+                {
+                    "group": "API Documentation",
+                    "pages": [
+                        "api-reference/introduction"
+                    ]
+                },
+                {
+                    "group": "Endpoint Examples",
+                    "pages": [
+                        "api-reference/endpoint/get",
+                        "api-reference/endpoint/create",
+                        "api-reference/endpoint/delete"
+                    ]
+                }
+            ]
+        }
+    ],
+    "navbar": [
+        {
+            "name": "Support",
+            "url": "mailto:support@metria.so"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/my-org/my-repo"
+        }
+    ]
 }
-]
-},
-{
-"tab": "API Reference",
-"groups": [
-{
-"group": "API Documentation",
-"pages": ["api-reference/introduction"]
-},
-{
-"group": "Endpoint Examples",
-"pages": [
-"api-reference/endpoint/get",
-"api-reference/endpoint/create",
-"api-reference/endpoint/delete"
-]
-}
-]
-}
-],
-"navbar": [
-{ "name": "Support", "url": "mailto:support@metria.so" },
-{ "name": "GitHub", "url": "https://github.com/my-org/my-repo" }
-]
