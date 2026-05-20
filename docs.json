@@ -2,7 +2,13 @@
   "name": "My Docs",
   "description": "Documentation for My Project.",
   "navigation": [
-    "index",
+    {
+      "groups": [
+        {
+          "pages": ["index"]
+        }
+      ]
+    },
     {
       "tab": "Guides",
       "groups": [
