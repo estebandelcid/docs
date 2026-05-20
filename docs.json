@@ -25,7 +25,7 @@
       "groups": [
         {
           "group": "Essentials",
-          "pages": ["essentials/code", "essentials/images", "essentials/markdown", "essentials/navigation", "essentials/reusable-snippets", "settings"]
+          "pages": ["essentials/code", "essentials/images", "essentials/markdown", "essentials/navigation", "essentials/reusable-snippets", "essentials/settings"]
         }
       ]
     }
