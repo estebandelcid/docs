@@ -19,6 +19,15 @@
           "pages": ["api-reference/introduction", "api-reference/endpoint/get", "api-reference/endpoint/create", "api-reference/endpoint/delete"]
         }
       ]
+    },
+    {
+      "tab": "Components and more",
+      "groups": [
+        {
+          "group": "Essentials",
+          "pages": ["essentials/code", "essentials/images", "essentials/markdown", "essentials/navigation", "essentials/reusable-snippets", "settings"]
+        }
+      ]
     }
   ]
 }
