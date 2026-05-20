@@ -2,15 +2,7 @@
   "name": "My Docs",
   "description": "Documentation for My Project.",
   "navigation": [
-    {
-      "tab": "Overview",
-      "groups": [
-        {
-          "group": "inicio",
-          "pages": ["index"]
-        }
-      ]
-    },
+    "index",
     {
       "tab": "Guides",
       "groups": [
