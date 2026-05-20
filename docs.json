@@ -6,6 +6,7 @@
       "tab": "Overview",
       "groups": [
         {
+          "group": "inicio",
           "pages": ["index"]
         }
       ]
