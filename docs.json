@@ -3,6 +3,7 @@
   "description": "Documentation for My Project.",
   "navigation": [
     {
+      "tab": "Overview",
       "groups": [
         {
           "pages": ["index"]
