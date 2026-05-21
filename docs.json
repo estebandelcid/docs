@@ -1,0 +1,33 @@
+{
+  "name": "My Docs",
+  "description": "Documentation for My Project.",
+  "navigation": [
+    {
+      "tab": "Guides",
+      "groups": [
+        {
+          "group": "Get Started",
+          "pages": ["01-introduction", "quickstart", "development"]
+        }
+      ]
+    },
+    {
+      "tab": "API Reference",
+      "groups": [
+        {
+          "group": "Endpoints",
+          "pages": ["api-reference/introduction", "api-reference/endpoint/get", "api-reference/endpoint/create", "api-reference/endpoint/delete"]
+        }
+      ]
+    },
+    {
+      "tab": "Components and more",
+      "groups": [
+        {
+          "group": "Essentials",
+          "pages": ["essentials/code", "essentials/images", "essentials/markdown", "essentials/navigation", "essentials/reusable-snippets", "essentials/settings"]
+        }
+      ]
+    }
+  ]
+}
